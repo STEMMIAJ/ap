@@ -1,0 +1,25 @@
+# Arquivos de resultados gerados automaticamente
+*.json
+!imoveis_links.json
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
